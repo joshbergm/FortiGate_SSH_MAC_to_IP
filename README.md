@@ -1,4 +1,4 @@
-# FortiGate_SSH_MAC_to_IP
+# Instructions! Read carefully
 In order to use this script, follow these steps:
 
 1. On the D:/ drive create a txt file named: mac_address_list.txt
